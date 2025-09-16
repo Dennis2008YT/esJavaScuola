@@ -1,0 +1,13 @@
+package it.volta.ts.musinadennis.esercizio1;
+
+import it.volta.ts.musinadennis.esercizio1.boundary.Console;
+
+public class Main
+{
+	Console console;
+	public static void main(String[] args)
+	{
+		console = new Console();
+		console.excecute(args);
+	}
+}
