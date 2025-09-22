@@ -1,0 +1,19 @@
+package it.volta.ts.musinadennis.esercizio1.util;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.util.List;
+
+public class FIleUtil {
+	public static List<String> readTxtFile(String filename)
+	{
+		List<String> ris = null;
+		
+		try {
+			Files.readAllLines(null);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return ris;
+	}
+}
