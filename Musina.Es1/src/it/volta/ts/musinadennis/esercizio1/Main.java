@@ -1,0 +1,14 @@
+package it.volta.ts.musinadennis.esercizio1;
+
+import it.volta.ts.musinadennis.esercizio1.boundary.Console;
+
+public class Main
+{
+	private static final String FILENAME = "dati.txt";
+	
+	public static void main(String[] args)
+	{
+		Console console = new Console(FILENAME);
+		console.excecute(args);
+	}
+}
