@@ -20,4 +20,19 @@ public class FIleUtil {
 		}
 		return ris;
 	}
+	
+	public static String[] readTxtFileToString(String filename)
+	{
+		List<String> list = readTxtFile(filename);
+		String[] ris = null;
+		if(list!=null)
+		{
+			ris = new String[list.size()];
+			for(int i = 0; i < list.size(); i++)
+			{
+				ris[i] = list.get(i);
+			}
+		}
+		return null;
+	}
 }
