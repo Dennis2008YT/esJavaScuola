@@ -33,6 +33,6 @@ public class FIleUtil {
 				ris[i] = list.get(i);
 			}
 		}
-		return null;
+		return ris;
 	}
 }

@@ -1,0 +1,100 @@
+Pane, 1.20 (265,0 kcal), Panetteria
+Pasta, 1.50 (131,0 kcal), Pasta e riso
+Riso, 1.80 (130,0 kcal), Pasta e riso
+Farina, 1.00 (364,0 kcal), Ingredienti da forno
+Latte, 0.90 (42,0 kcal), Latticini
+Yogurt, 1.10 (59,0 kcal), Latticini
+Uova, 2.50 (155,0 kcal), Uova e sostituti
+Burro, 3.00 (717,0 kcal), Latticini
+Formaggio, 4.00 (402,0 kcal), Latticini
+Carne di manzo, 8.00 (250,0 kcal), Carne
+Pollo, 5.00 (239,0 kcal), Carne
+Salmone, 10.00 (208,0 kcal), Pesce e frutti di mare
+Vino rosso, 5.50 (85,0 kcal), Bevande
+Birra, 1.50 (43,0 kcal), Bevande
+Caffè, 6.00 (1,0 kcal), Bevande
+Tè, 2.00 (0,0 kcal), Bevande
+Cereali, 2.50 (379,0 kcal), Colazione
+Mele, 2.00 (52,0 kcal), Frutta
+Carote, 1.50 (41,0 kcal), Verdura
+Olive, 3.00 (115,0 kcal), Conserve e sottaceti
+Olio d'oliva, 4.00 (884,0 kcal), Condimenti
+Zucchero, 1.20 (387,0 kcal), Ingredienti da forno
+Sale, 0.70 (0,0 kcal), Condimenti
+Pepe, 1.80 (255,0 kcal), Condimenti
+Banane, 1.90 (89,0 kcal), Frutta
+Fragole, 3.20 (32,0 kcal), Frutta
+Pomodori, 2.10 (18,0 kcal), Verdura
+Cipolle, 1.30 (40,0 kcal), Verdura
+Patate, 1.50 (77,0 kcal), Verdura
+Spinaci, 2.00 (23,0 kcal), Verdura
+Broccoli, 2.20 (55,0 kcal), Verdura
+Zucca, 2.30 (26,0 kcal), Verdura
+Ceci, 1.70 (364,0 kcal), Legumi
+Lenticchie, 2.10 (353,0 kcal), Legumi
+Fagioli, 1.90 (347,0 kcal), Legumi
+Prosciutto, 3.50 (145,0 kcal), Salumi
+Pancetta, 4.50 (541,0 kcal), Salumi
+Tonno in scatola, 3.20 (198,0 kcal), Pesce e frutti di mare
+Sardine, 2.80 (208,0 kcal), Pesce e frutti di mare
+Arance, 2.40 (47,0 kcal), Frutta
+Limoni, 1.60 (29,0 kcal), Frutta
+Anguria, 3.00 (30,0 kcal), Frutta
+Melone, 3.50 (34,0 kcal), Frutta
+Kiwi, 2.30 (61,0 kcal), Frutta
+Uva, 3.10 (69,0 kcal), Frutta
+Noci, 4.50 (654,0 kcal), Frutta secca
+Mandorle, 5.20 (579,0 kcal), Frutta secca
+Arachidi, 3.80 (567,0 kcal), Frutta secca
+Semi di girasole, 2.90 (584,0 kcal), Frutta secca
+Cioccolato, 2.50 (546,0 kcal), Dolci e snack
+Biscotti, 2.00 (502,0 kcal), Dolci e snack
+Torta, 3.90 (395,0 kcal), Dolci e snack
+Muffin, 2.80 (377,0 kcal), Dolci e snack
+Pane integrale, 1.80 (265,0 kcal), Panetteria
+Pane di segale, 2.10 (259,0 kcal), Panetteria
+Pane azzimo, 1.50 (349,0 kcal), Panetteria
+Croissant, 1.20 (406,0 kcal), Panetteria
+Gelato, 4.00 (207,0 kcal), Dolci e snack
+Sorbetto, 3.20 (130,0 kcal), Dolci e snack
+Miele, 4.50 (304,0 kcal), Condimenti
+Marmellata, 2.60 (250,0 kcal), Condimenti
+Burro di arachidi, 3.00 (588,0 kcal), Condimenti
+Ketchup, 1.50 (112,0 kcal), Condimenti
+Maionese, 1.80 (680,0 kcal), Condimenti
+Senape, 1.20 (66,0 kcal), Condimenti
+Salsa di soia, 2.10 (53,0 kcal), Condimenti
+Aceto balsamico, 3.00 (88,0 kcal), Condimenti
+Pancakes, 2.40 (227,0 kcal), Colazione
+Waffle, 2.50 (291,0 kcal), Colazione
+Cracker, 1.70 (504,0 kcal), Snack salati
+Popcorn, 1.30 (387,0 kcal), Snack salati
+Patatine, 1.60 (536,0 kcal), Snack salati
+Noodles, 1.90 (138,0 kcal), Pasta e riso
+Salsa di pomodoro, 1.40 (29,0 kcal), Conserve e sottaceti
+Passata di pomodoro, 2.00 (21,0 kcal), Conserve e sottaceti
+Piselli, 1.80 (81,0 kcal), Verdura
+Funghi, 2.70 (22,0 kcal), Verdura
+Zucchine, 2.20 (17,0 kcal), Verdura
+Melanzane, 2.30 (24,0 kcal), Verdura
+Peperoni, 2.60 (20,0 kcal), Verdura
+Aglio, 0.90 (149,0 kcal), Condimenti
+Cavolfiore, 2.10 (25,0 kcal), Verdura
+Sedano, 1.20 (16,0 kcal), Verdura
+Cicoria, 1.50 (23,0 kcal), Verdura
+Porri, 2.40 (61,0 kcal), Verdura
+Fagiolini, 2.10 (31,0 kcal), Verdura
+Asparagi, 3.00 (20,0 kcal), Verdura
+Barba di frate, 2.70 (16,0 kcal), Verdura
+Cavolo, 1.80 (25,0 kcal), Verdura
+Lattuga, 1.30 (15,0 kcal), Verdura
+Radicchio, 2.00 (20,0 kcal), Verdura
+Cavoletti di Bruxelles, 2.40 (43,0 kcal), Verdura
+Zucca gialla, 3.20 (26,0 kcal), Verdura
+Panna, 2.50 (210,0 kcal), Latticini
+Parmigiano, 5.00 (431,0 kcal), Latticini
+Mozzarella, 3.00 (280,0 kcal), Latticini
+Gorgonzola, 4.20 (356,0 kcal), Latticini
+Ricotta, 2.80 (174,0 kcal), Latticini
+Pecorino, 4.50 (387,0 kcal), Latticini
+Taleggio, 3.90 (317,0 kcal), Latticini
