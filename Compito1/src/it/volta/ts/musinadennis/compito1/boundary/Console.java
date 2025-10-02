@@ -15,11 +15,8 @@ public class Console
 		manageProducts = new ManageProducts();
 		this.fileName = fileName;
 	}
-	
-	
 	public void excecute()
 	{
-		System.out.println();
 		array = fileUtil.readFileToString(fileUtil.readFile(fileName));
 		manageProducts.addAllProducts(array);
 		System.out.println(manageProducts.printAll());
